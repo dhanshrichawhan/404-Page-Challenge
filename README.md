@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{404-page-challenge-seven.vercel.app/}">
+    <a href="https://404-page-challenge-seven.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{github.com/dhanshrichawhan/404-Page-Challenge/blob/master/index.html}">
+    <a href="https://github.com/dhanshrichawhan/404-Page-Challenge/blob/master/index.html">
       Solution
     </a>
     <span> | </span>
